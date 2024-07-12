@@ -1,0 +1,75 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "cta": "Support Now",
+        "eventDescription": "We're on Product Hunt. Support our Launch.",
+        "linkText": "Check it out",
+        "promoEndDate": "Limited Time Only"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "Get started with AI",
+        "linkText": "Learn how AI can boost your SaaS",
+        "subtitle": "With the AI SaaS Launcher, you can speed up the time to launch your SaaS startup using generative AI. Experience the freedom of full code ownership with customizable themes and integrated features.",
+        "title": "The power of AI to launch your startup...fast"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly.",
+        "title": "Accelerate Your Startup Journey with AI SaaS Launcher"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Accelerate Your Startup Journey with AI SaaS Launcher",
+  "subtitle": "Unleash the power of AI to rapidly launch your SaaS MVP with unmatched customization and speed. Empower your vision with our low-code platform and kickstart your revenue stream seamlessly."
+}
